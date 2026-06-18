@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appTitle": "Basketball scoreboard",
+  "team1Title": "Team 1",
+  "team2Title": "Team 2",
+  "freeThrowButton": "Free throw (+1)",
+  "twoPointsButton": "+2 points",
+  "threePointsButton": "+3 points",
+  "undoLastPlay": "Undo last play",
+  "scoreHeading": "Current score"
+}

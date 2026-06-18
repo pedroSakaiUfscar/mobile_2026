@@ -1,0 +1,11 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Placar de basquete",
+  "team1Title": "Equipe 1",
+  "team2Title": "Equipe 2",
+  "freeThrowButton": "Lance livre (+1)",
+  "twoPointsButton": "+2 pontos",
+  "threePointsButton": "+3 pontos",
+  "undoLastPlay": "Voltar lance",
+  "scoreHeading": "Placar atual"
+}
